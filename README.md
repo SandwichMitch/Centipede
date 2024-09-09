@@ -3,7 +3,7 @@
 - Start: start the game
 - Select: (when in game) pause/unpause the game
 - Use left, right to move the player sprite
-- Press A to shoo
+- Press A to shoot
 ## HOW TO PLAY THE GAME
 It's centipede.
 ## STATE NAVIGATION
@@ -13,5 +13,3 @@ It's centipede.
 - Pause: Press select on the game screen.
 - Lose: Let the centipede reach the bottom of the screen
 - Win: Beat both levels
-## ADDITIONAL NOTES
-Jared, I am so sorry for this hot mess of a video game. I think my logic was so inefficent that it pushed the emulator to the brink that it can't keep up. There are so many odd glitches that I cannot even begin to explain or know how to recreate and I do not have enough time to nuke this homework and start over. It's so joever.
