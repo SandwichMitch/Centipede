@@ -5,7 +5,7 @@
 - Use left, right to move the player sprite
 - Press A to shoot
 ## HOW TO PLAY THE GAME
-It's centipede.
+It's centipede. The centipede will travel down the screen, and you will lose if it reaches the bottom. Move the player around and shoot the centipede before it reaches you. It will split every time it is shot. 10 pts for shooting mushrooms.
 ## STATE NAVIGATION
 - Start: initializes to start. Hitting start after win or lose will go to start. Hitting start during pause will do this as well.
 - Level 1: Press start on the Start screen, or select on the pause screen
